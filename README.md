@@ -53,4 +53,8 @@ Following are the methods implemented
 
 23. sorted() : method returns new instance of the sorted LinkedList without changing original Linked List
 
+24. append() : This Method add a single element to the end of the list.
+
+25. extend() : This Method adds iterable elements to the end of the list.
+
 If you think you have a better implementation for any method or if you have any doubts or if you want some method implementations please feel free to comment.
